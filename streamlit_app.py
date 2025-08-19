@@ -35,8 +35,8 @@ tiempos, temp, hum_amb, hum_suelo, riego = st.session_state.data
 # ================== Encabezado ==================
 l, m, r = st.columns([2,3,2])
 with l:
-    st.markdown("### 🌿 Huerta Automatizada — Demo Visual")
-    st.caption("UI de monitoreo y control (solo front-end).")
+    st.markdown("### 🌿 Huerta Automatizada — CEF ´San Francisco Solano´")
+    st.caption("UI de monitoreo y control del proyecto de Huerta Escolar.")
 with r:
     st.write("")
 
